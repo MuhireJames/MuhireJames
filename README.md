@@ -19,6 +19,7 @@ I'm a passionate **FullStack Developer** with experience in **MERN STACK and DJA
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Django-Rest-framework](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
@@ -27,11 +28,11 @@ I'm a passionate **FullStack Developer** with experience in **MERN STACK and DJA
 
 ### [QuickMart E-commerce](https://quickmart-88b6.onrender.com/)
 
-**[Qiuickmart E-Commerce]** is a **[E-Commerce project where users can register,sign in,add product to cart,checkout ,with payment integrated with Paypal and Flutterwave]** built with **[Python,Django,Django rest framework,React,tailwind Css]**.
+**Quickmart E-Commerce** is a **E-Commerce project where users can register,sign in,add product to cart,checkout ,with payment integrated with Paypal and Flutterwave** built with **[Python,Django,Django rest framework,React,tailwind Css]**.
 
-### [Jobify App]([project_2_link](https://jobify-qyde.onrender.com/))
+### [Jobify App](https://jobify-qyde.onrender.com/)
 
-**[Jobify]** is a **[application where user can access job listed ,edit,delete and create job,and is reserved for recruitment organisation,with admin dashboard where admin can easily visualises app statistics]** built with **[React,Styled components,MongoDB,Express.js,node.js,with JWT in authentication]**.
+**Jobify** is a **application where user can access job listed ,edit,delete and create job,and is reserved for recruitment organisation,with admin dashboard where admin can easily visualises app statistics]** built with **React,Styled components,MongoDB,Express.js,node.js,with JWT in authentication**.
 
 ## Get in Touch 📬
 
