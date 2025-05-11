@@ -36,8 +36,8 @@ I'm a passionate **FullStack Developer** with experience in **MERN STACK and DJA
 
 ## Get in Touch 📬
 
-- **LinkedIn**:(https://www.linkedin.com/in/james-muhire-2a9483177?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Twitter**:(https://www.linkedin.com/in/james-muhire-2a9483177?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**:https://www.linkedin.com/in/james-muhire-2a9483177?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **Twitter**:https://www.linkedin.com/in/james-muhire-2a9483177?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
